@@ -1,0 +1,7 @@
+A história com ID 1 foi alterada com sucesso, cumprindo o objetivo de alterar a cor da fonte para azul.
+A história com ID 3 foi alterada com sucesso, ficou mais intuitivo os novos nomes para os devidos links.
+Contudo, existem alterações que podem ser feitas como uma melhoria, é possivel criar uma classe para ser
+alterado essas cores no style do html, podendo alterar todas as cores de vez, sem precisar alterar em
+cada linha. É importante fazer a verificações dos links informados na referência, o segundo link não
+existe e manda para uma página de erro, e o terceiro manda para a própria página de contato, que nesse
+caso não tem necessidade no momento.
