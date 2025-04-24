@@ -1,10 +1,19 @@
-Após a reunião, foi decidido que as histórias de ID 1 e 3 serão implementadas no projeto, sendo elas:
--ID 1: Como cliente da empresa e usuário do portal, eu quero, na página index, ver a fonte com os nomes
-dos veículos na cor azul para me proporcionar uma melhor experiência de usuário. 
--ID 3: Como cliente da empresa e usuário do portal, eu quero, na página contato, que os nomes dos links
-para as outras páginas sejam mais detalhadas para facilitar o meu entendimento e a minha
+SPRINT BACKLOG
+Sprint: Semana 1
+
+Histórias selecionadas para este Sprint:
+
+ID 1:
+Como cliente da empresa e usuário do portal, eu quero, na página index, ver a fonte com os nomes
+dos veículos na cor azul para me proporcionar uma melhor experiência de usuário.
+
+Tarefa técnica: Inserir tag <font color="#0000AA"> nas listas de veículos no arquivo index.html.
+Esforço estimado: 2 pontos
+
+ID 3:
+Como cliente da empresa e usuário do portal, eu quero, na página contato, que os nomes dos links
+para as outras páginas sejam mais detalhados para facilitar o meu entendimento e a minha
 navegação no portal.
 
-Será necessário alterar poucas linhas de códigos no documento, no ID 1 será adicionado uma nova tag 
-para alterar a cor da fonte dos nomes do veiculo a cada item da lista. Já no ID 3 será alterado o nome
-dos links na lista. 
+Tarefa técnica: Atualizar os textos dos links no arquivo contato.html.
+Esforço estimado: 1 ponto
