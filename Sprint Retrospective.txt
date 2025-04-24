@@ -1,7 +1,16 @@
-A história com ID 1 foi alterada com sucesso, cumprindo o objetivo de alterar a cor da fonte para azul.
-A história com ID 3 foi alterada com sucesso, ficou mais intuitivo os novos nomes para os devidos links.
-Contudo, existem alterações que podem ser feitas como uma melhoria, é possivel criar uma classe para ser
-alterado essas cores no style do html, podendo alterar todas as cores de vez, sem precisar alterar em
-cada linha. É importante fazer a verificações dos links informados na referência, o segundo link não
-existe e manda para uma página de erro, e o terceiro manda para a própria página de contato, que nesse
-caso não tem necessidade no momento.
+SPRINT RETROSPECTIVE
+Sprint: Semana 1
+
+O que funcionou bem:
+- A história de ID 1 foi implementada com sucesso, aplicando a cor azul aos nomes dos veículos na página index.html.
+- A história de ID 3 também foi concluída, tornando os links da página contato mais claros e descritivos.
+
+O que não funcionou tão bem:
+- A implementação da cor nos nomes dos veículos foi feita linha por linha, o que pode não ser a forma mais eficiente.
+- Foi identificado que um dos links presentes na página contato leva a uma página inexistente (erro 404) e outro
+redireciona para a própria página de contato, o que pode não ser necessário.
+
+Sugestões de melhoria:
+- Utilizar uma classe CSS no style para aplicar a cor em todos os itens da lista de forma mais eficiente e padronizada.
+- O nome dado ao link da página principal poderia ser "Lista de veículos" ou "Página principal" 
+- Verificar e corrigir os links quebrados ou redundantes na página contato.html para evitar má experiência do usuário.
